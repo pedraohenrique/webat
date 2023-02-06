@@ -1,0 +1,5 @@
+export const CREATE_QUOTE = 'CREATE_QUOTE';
+export const RETRIEVE_QUOTES = 'RETRIEVE_QUOTES';
+export const READ_QUOTE = 'READ_QUOTE';
+export const UPDATE_QUOTE = 'UPDATE_QUOTE';
+export const DELETE_QUOTE = 'DELETE_QUOTE';
